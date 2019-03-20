@@ -1,1 +1,8 @@
 build
+.buckconfig.d
+.buckconfig.local
+.buckd
+buck-out
+buckaroo
+buckaroo_macros.bzl
+.vscode
